@@ -1,4 +1,5 @@
 ## Wikibooks-SQL-Exercises
+https://en.wikibooks.org/wiki/SQL_Exercises
 
 # SQL Exercises
 The purpose of any exercise is to steadily develop skills and to acquire the automatic algorithms for fulfilling certain operations. 
